@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.954e7325.css",
-    "main.js": "/static/js/main.b14ee1b0.js",
-    "index.html": "/index.html",
-    "main.954e7325.css.map": "/static/css/main.954e7325.css.map",
-    "main.b14ee1b0.js.map": "/static/js/main.b14ee1b0.js.map"
+    "main.css": "//romzes82.github.io/react-movies/static/css/main.954e7325.css",
+    "main.js": "//romzes82.github.io/react-movies/static/js/main.b14ee1b0.js",
+    "index.html": "//romzes82.github.io/react-movies/index.html",
+    "main.954e7325.css.map": "//romzes82.github.io/react-movies/static/css/main.954e7325.css.map",
+    "main.b14ee1b0.js.map": "//romzes82.github.io/react-movies/static/js/main.b14ee1b0.js.map"
   },
   "entrypoints": [
     "static/css/main.954e7325.css",
